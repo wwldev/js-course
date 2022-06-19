@@ -1,0 +1,25 @@
+{
+  "name": "js-course",
+  "version": "0.1.0",
+  "description": "JS Course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwldev/js-course.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Zaw W. Lwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wwldev/js-course/issues"
+  },
+  "homepage": "https://github.com/wwldev/js-course#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}
